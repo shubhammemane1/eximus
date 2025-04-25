@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "778702322272",
+    "project_id": "testing-b1886",
+    "storage_bucket": "testing-b1886.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778702322272:android:22e032c78b84fcd566e105",
+        "android_client_info": {
+          "package_name": "com.shubhammemane.eximus_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3x1JpjlqT4OJqQNhNEZ-Qdd6Hn6kYnZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
